@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Lokeshlk07
-- 👀 I’m interested in ... Web development and aptitude problem solving 
-- 🌱 I’m currently learning ...HTML CSS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lokesh-LK
+- 👀 I’m interested in ... FRONT END WEB DEVELOPMENT. 
+- 🌱 I’m currently learning HTML , CSS , JAVASCRIPT .
 
 <!---
 Lokeshlk07/Lokeshlk07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
